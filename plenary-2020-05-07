@@ -9,4 +9,43 @@ Margie Smith
 Pouya
 Shane Kew
 
+### Apologies
+Brigette Metzler
+John Machin
+
 ## Agenda
+(as per email)
+
+1. Previous meeting
+  - we need to confirm details and minutes from the last couple of meetings since we’ve had some dissruption
+
+2. New members
+ - we have a few new members that could introduce themselves
+
+3. Proposed ontology documentation profile for AGLDWG
+  - Nicholas Car proposes a profile of OWL for the purposes of standard Australian Govt ontology documentation
+    - this is a “lite” version of previously mooted AGISO (to be explained in meeting)
+    - profile outline (incomplete) is at https://github.com/AGLDWG/agldwg-ont-profile
+    - the profile will be able to be understood by the pyLODE documentation tool (https://github.com/RDFLib/pyLODE) and used for validation
+
+4. Proposed switch to HTTPS
+  - a switch from http://linked.data.gov.au to HTTPS has been proposed in previous meetings and generally accepted (no counter proposals)
+  - proposed plan is to create all new PIDs using HTTP and redirect existing PIDs from HTTP to HTTPS
+  - Nicholas Car proposes now to implement the redirect and start HTTPS issuances within May
+
+5. General Business
+  a. AGRIF 0.9 released
+   - see http://linked.data.gov.au/def/agrif
+   - Armin Haller to update on AGRIF work generally
+  b. Notification of RDFlib tools
+    - as announced to the mailing list, there is a new version of Python’s RDF toolkit, RDFlib. 
+    - Nicholas Car will outline development plans
+  c. ESWC is online in 2020
+    - Armin Haller to report on his expected involvement
+  d. ISWC is online in 2020
+    - Armin Haller to report on the proposed SemStats workshop within it
+    - Nicholas Car to report on SURROUND’s expected attendance
+    - other AGLDWG members might take this reduced cost opportunity to attend 
+    
+## Minutes
+
