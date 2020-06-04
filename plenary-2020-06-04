@@ -1,0 +1,38 @@
+# Plenary June, 2020-06-04
+
+## Attendees
+
+
+
+### Apologies
+
+
+
+## Agenda
+(as per email)
+
+1. Confirm Minutes of Previous meeting
+    - Nick: can we live with GitHub-based minutes?
+
+2. New members
+   - We have a few new members that could introduce themselves
+
+3. Progress of proposed Australian Government Ontology Profile
+   - Nick to update on proposal in May meeting, the AGOP is a profile of the OWL specification to ensure Aust Gov ontologies document well
+   - AGOP to influence tools such as pyLODE & VocPrez
+
+4. Report on DNS changes
+   - Nick to report on switch to HTTPS & website use of CNAME for www
+
+5. Considerations for AGM
+   - the AGM is held during the August meeting each year. Do we need to plan anything?
+
+6. General Business
+  a. Nick: ISO to test deliver SKOS vocabs of Code Lists
+  b. Nick: investigations into AS4590 code lists as SKOS vocabs
+  c. Dept of Ag’s first public ontology
+  d. Nick: description of GSQ’s set of vocabulary URIs
+  e. Armin: Quick introduction to http://schimatos.org - A SHACL-based Web-Form Generator for Knowledge Graph Editing
+
+
+## Minutes
