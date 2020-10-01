@@ -19,25 +19,25 @@
 # Minutes
 
 ## 1. Attendees and Apologies
-  - Armin Haller (chair)
-  - Brigette Metzler
-  - Len Smith
-  - Jonathan Yu
-  - Edmond Chuk
-  - John Machin
-  - Andrew MacLeod
-  - Rob Atkinson 
+  - Armin Haller (chair) - ANU
+  - Brigette Metzler - SA
+  - Len Smith - ANU + Indigenous Data Network
+  - Jonathan Yu - CSIRO
+  - John Machin - Finance
+  - Andrew MacLeod - 
+  - Rob Atkinson - OGC
   - Nicholas Car (secretary)
-  - Stephen Pratt
+  - Stephen Pratt - DAWE
   - Sandra Silcot
-  - Bernadette Hyland-Woods
-  - Gavin Walker
-  - Rowan Brownlee
+  - Bernadette Hyland-Woods - UQ
+  - Gavin Walker 
+  - Rowan Brownlee - ARDC
   - Pouya Omran
   - Amanda Norton
   - Andrew Fitzgerald
-  - Margie Smith
+  - Margie Smith - GA
   - Will Francis
+  - Nataliya Katsman - Tas State Growth
   
 
 ## 2. AGM
