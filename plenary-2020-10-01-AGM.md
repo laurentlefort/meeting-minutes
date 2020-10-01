@@ -68,7 +68,7 @@ Armin: we will have changed the order of voting/presentation due to system and t
   - Secretary
    - to be aborbed into co-chairs, CSIRO providing WebEx
    
-Arrangement as above voted in chat and voice uninimously
+Nominees as above voted in uninimously with chat and voice indications of "yes" for all attending organisations
  
 ACTION: Armin to arrange a chair/secretary schedule for future meetings
  
