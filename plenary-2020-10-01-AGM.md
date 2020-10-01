@@ -29,6 +29,14 @@
   - Rob Atkinson 
   - Nicholas Car (secretary)
   - Stephen Pratt
+  - Sandra Silcot
+  - Bernadette Hyland-Woods
+  - Gavin Walker
+  - Rowan Brownlee
+  - Pouya Omran
+  - Amanda Norton
+  - Andrew Fitzgerald
+ 
     
 
 ## 2. AGM
