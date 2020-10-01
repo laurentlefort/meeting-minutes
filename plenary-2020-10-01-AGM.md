@@ -19,14 +19,14 @@
 # Minutes
 
 ## 1. Attendees and Apologies
-  - Armin Haller (chair) - ANU
+  - Armin Haller - ANU (chair)
   - Brigette Metzler - SA
   - Len Smith - ANU + Indigenous Data Network
   - Jonathan Yu - CSIRO
   - John Machin - Finance
   - Andrew MacLeod - Fed Uni
   - Rob Atkinson - OGC
-  - Nicholas Car (secretary)
+  - Nicholas Car - SURROUND / ANU (secretary)
   - Stephen Pratt - DAWE
   - Sandra Silcot - ANU + Indigenous Data Network
   - Bernadette Hyland-Woods - UQ
@@ -40,6 +40,7 @@
   - Nataliya Katsman - Tas State Growth
   - Julia Martin - ARDC
   - David Crosswell - GSQ
+  - David Habgood - SURROUND
   
 
 ## 2. AGM
