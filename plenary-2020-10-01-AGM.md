@@ -36,8 +36,9 @@
   - Pouya Omran
   - Amanda Norton
   - Andrew Fitzgerald
- 
-    
+  - Margie Smith
+  - Will Francis
+  
 
 ## 2. AGM
 This Monthly Plenary will host the AGLDWG AGM, so we suspend the regular Monthly Agenda antil after it.
