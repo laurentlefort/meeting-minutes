@@ -53,7 +53,7 @@ This Monthly Plenary will host the AGLDWG AGM, so we suspend the regular Monthly
 
 ### 2.3. Linked Data project presentations
   - Jonathan Yu, CSIRO - LocI
-  - Edmond Chuk, TERN - TERN's LD work
+  - Edmond Chuc, TERN - TERN's LD work
   - John Machin, Finance - AGRIF & Sophia Alpha
   - Andrew MacLeod, Fed Uni - SELFIE
   - Rob Atkinson, OGC Guest - JSON -> JSON-LD
