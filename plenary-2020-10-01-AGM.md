@@ -38,6 +38,8 @@
   - Margie Smith - GA
   - Will Francis - GA
   - Nataliya Katsman - Tas State Growth
+  - Julia Martin - ARDC
+  - David Crosswell - GSQ
   
 
 ## 2. AGM
