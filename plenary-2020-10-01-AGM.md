@@ -53,11 +53,11 @@ This Monthly Plenary will host the AGLDWG AGM, so we suspend the regular Monthly
 Armin: we will have changed the order of voting/presentation due to system and time constraints
 
 ### 2.2. Linked Data project presentations
-  - Andrew MacLeod, Fed Uni - SELFIE
-  - Armin Haller - Linked Data at ANU/CECS
-  - Edmond Chuc - Linked Data at TERN (presented by Nicholas Car)
-  - John Machin - AGRIF & Sophia Alpha  
-  - Will Francis - 
+- Andrew MacLeod, Fed Uni - SELFIE
+- Armin Haller - Linked Data at ANU/CECS
+- Edmond Chuc - Linked Data at TERN (presented by Nicholas Car)
+- John Machin - AGRIF & Sophia Alpha  
+- Will Francis - GA LD Work
   
 ### 2.3. Election of office holders
   - (Co-)Chair(s)
@@ -80,11 +80,10 @@ Vote on current TorR, essentially unchanged from last year. Vote by voice and in
 - John: consideration of a higher-order group (DepSecs etc) is underway at Finance
   
 ### 2.5. Linked Data project presentations cont.
-  - Rob Atkinson - FAIR Semantic Registries
-  - Jonathan Yu - CSIRO - LocI: Linked Data
-  - Nicholas Car - Cutting Edge Spatila Linked Data
-
-  - Stephen Pratt - Dept of AWE's PHS Ontology
+- Rob Atkinson - FAIR Semantic Registries
+- Jonathan Yu - CSIRO - LocI: Linked Data
+- Nicholas Car - Cutting Edge Spatila Linked Data
+- Stephen Pratt - Dept of AWE's PHS Ontology
 
 
 ## 3. Monthly Plenary continuation
