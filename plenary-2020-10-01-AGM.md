@@ -24,19 +24,19 @@
   - Len Smith - ANU + Indigenous Data Network
   - Jonathan Yu - CSIRO
   - John Machin - Finance
-  - Andrew MacLeod - 
+  - Andrew MacLeod - Fed Uni
   - Rob Atkinson - OGC
   - Nicholas Car (secretary)
   - Stephen Pratt - DAWE
-  - Sandra Silcot
+  - Sandra Silcot - ANU + Indigenous Data Network
   - Bernadette Hyland-Woods - UQ
-  - Gavin Walker 
+  - Gavin Walker - CSIRO
   - Rowan Brownlee - ARDC
-  - Pouya Omran
-  - Amanda Norton
-  - Andrew Fitzgerald
+  - Pouya Omran - ANU
+  - Amanda Norton - Safe Work Australia 
+  - Andrew Fitzgerald - Finance
   - Margie Smith - GA
-  - Will Francis
+  - Will Francis - GA
   - Nataliya Katsman - Tas State Growth
   
 
