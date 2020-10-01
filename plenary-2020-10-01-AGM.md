@@ -56,21 +56,37 @@ Armin: we will have changed the order of voting/presentation due to system and t
   - Andrew MacLeod, Fed Uni - SELFIE
   - Armin Haller - Linked Data at ANU/CECS
   - Edmond Chuc - Linked Data at TERN (presented by Nicholas Car)
+  - John Machin - AGRIF & Sophia Alpha  
   - Will Francis - 
- 
-### 2.3. Confirmation of ToR
   
-### 2.4. Election of office holders
+### 2.3. Election of office holders
   - (Co-)Chair(s)
+    - Nicholas Car nominated for ANU
+    - Armin Haller nominated for ANU
+    - John Machin nominated for Finance
+    - Nataliya Katsman nominated for Tas State Growth 
   - Secretary
+   - to be aborbed into co-chairs, CSIRO providing WebEx
+   
+Arrangement as above voted in chat and voice uninimously
+ 
+ACTION: Armin to arrange a chair/secretary schedule for future meetings
+ 
+### 2.4. Confirmation of ToR
+Vote on current TorR, essentially unchanged from last year. Vote by voice and in chat - unanimous approval
+
+*Ongoing discussion about the WG:*
+- Bernadette: I encourage the co-chairs to reach out to the APS Commission, see https://www.apsc.gov.au/aps-data-professional-stream
+- John: consideration of a higher-order group (DepSecs etc) is underway at Finance
   
 ### 2.5. Linked Data project presentations cont.
-  - Jonathan Yu - CSIRO - LocI: Linked Data
-  - John Machin - AGRIF & Sophia Alpha
-  - Nicholas Car - Cutting Edge Spatila Linked Data
   - Rob Atkinson - FAIR Semantic Registries
+  - Jonathan Yu - CSIRO - LocI: Linked Data
+  - Nicholas Car - Cutting Edge Spatila Linked Data
+
   - Stephen Pratt - Dept of AWE's PHS Ontology
-  
+
+
 ## 3. Monthly Plenary continuation
 
 ### 3.1. Confirm Minutes of Previous meeting
@@ -87,7 +103,9 @@ Armin: we will have changed the order of voting/presentation due to system and t
 ### 3.3.2. PID allocation issues
   - there are some contentions with URI allocations that need mentioning
 
+
 ### 4. Next meeting details
+
 
 ### 5. Close
 Time: 
