@@ -88,6 +88,7 @@ Vote on current TorR, essentially unchanged from last year. Vote by voice and in
 
 
 ## 3. Monthly Plenary continuation
+*These 3. points were not addressed in the meeting and are deferred to the next, in the interests of time.*
 
 ### 3.1. Confirm Minutes of Previous meeting
   - https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2020-09-03.md
