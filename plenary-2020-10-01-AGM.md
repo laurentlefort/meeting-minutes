@@ -66,9 +66,9 @@ Armin: we will have changed the order of voting/presentation due to system and t
     - John Machin nominated for Finance
     - Nataliya Katsman nominated for Tas State Growth 
   - Secretary
-   - to be aborbed into co-chairs, CSIRO providing WebEx
+    - to be aborbed into co-chairs, CSIRO providing WebEx
    
-Nominees as above voted in uninimously with chat and voice indications of "yes" for all attending organisations
+Nominees were all voted in unanimously with chat and voice indications of "yes" from all attending organisations.
  
 ACTION: Armin to arrange a chair/secretary schedule for future meetings
  
