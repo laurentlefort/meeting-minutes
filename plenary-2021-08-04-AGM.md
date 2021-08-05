@@ -42,6 +42,7 @@ Len Smith
 * Andrew Fitzgerald - Finance
 * Armin Haller - ANU
 * Richard Walker - ARDC (PID system project report)
+* Shyni Sasikala - Geoscience Australia 
 
 ### 2. AGM
 
