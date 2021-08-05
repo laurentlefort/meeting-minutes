@@ -58,7 +58,7 @@ Bernadette Hyland-Wood promises to help but not nominate formally, not being a g
 
 Larent Lefort indicates that he would like to assist more with WG activities as his ABS role evolves to engaged with external organisations more.
 
-There being no further nominees for position holders, the group elects the 4 self nominees to the Co-Chair position.
+There being no further nominees for position holders, and no dissent, the group elected the 4 self nominees to the Co-Chair position by acclamation.
 
 
 ### 3. AGM closes
