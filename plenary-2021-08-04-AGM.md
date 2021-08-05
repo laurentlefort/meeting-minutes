@@ -14,16 +14,26 @@
 3. AGM closes
 
 ### Monthly Plenary
-1. Previous minutes
+4. Previous minutes
     * see <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2021-07-01.md>
-2. Welcoming and introduction to new members
-3. Follow-up on previous meeting's Action Items
-4. Agency and Project Presentations
-5. General business 
-6. Next meeting details
-7. Monthly Plenary closes
+5. Welcoming and introduction to new members
+6. Follow-up on previous meeting's Action Items
+7. Agency and Project Presentations
+8. General business 
+9. Next meeting details
+10. Monthly Plenary closes
 
 ## Minutes
+
+### 1. Attendees and Apologies
+
+Alexander Hanysz  
+Jonathan Yu  
+
+
+### 2. AGM
+
+### 3. AGM closes
 
 ### 1. Previous minutes
 See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2021-07-01.md>
