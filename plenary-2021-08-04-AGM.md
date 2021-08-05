@@ -81,10 +81,16 @@ Nick indicates he will present on Linked Data catalogues at the September meetin
 
 ### 5. General business 
 
-Lots of discussion about the proposed updates to the WG's ToR & MoU. Co-chairs indicate that the proposals will be circulated before the September WG meeting.
-
-Bernadette indicates that Qld GovHack is on soon and she will desibe this on the mainling list.
+* Lots of discussion about the proposed updates to the WG's ToR & MoU. Co-chairs indicate that the proposals will be circulated before the September WG meeting.
+* Bernadette indicates that Qld GovHack is on soon and she will desibe this on the mainling list.
+* A long discussion about <https://api.gov.au> compared with <https://data.gov.au>
+    * Michael Hodgkin presented insider information about the goals of api.gov.au - it's aiming to list all the governmetn APIs already out there
+    * who contributes data to data .gov.au?
+        * Dept Finance does, directly
+        * other agencies do via data.gov.au reading from agency's own catalogues
 
 ### 6. Next meeting details
+
+Thursday, 2nd of September, 3pm Canberra time.
 
 ### 7. Monthly Plenary closes
