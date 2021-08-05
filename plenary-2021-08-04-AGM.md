@@ -88,6 +88,7 @@ Nick indicates he will present on Linked Data catalogues at the September meetin
     * who contributes data to data .gov.au?
         * Dept Finance does, directly
         * other agencies do via data.gov.au reading from agency's own catalogues
+        * Caleb Stone reported on data.govt.nz - it's value proposition is that the central catalogue makes other lists (catalogues) of data discoverable
 
 ### 6. Next meeting details
 
