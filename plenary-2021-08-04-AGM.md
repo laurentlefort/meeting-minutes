@@ -36,6 +36,7 @@ Irina Bastrakova
 Len Smith  
 
 ### 4. Agency and Project Presentations
+_This section of the meeting brought forward_
 
 * Laurent Lefort - ABS
 * Nataliya Katsman - Tas State Growth
@@ -45,6 +46,20 @@ Len Smith
 * Shyni Sasikala - Geoscience Australia 
 
 ### 2. AGM
+
+#### Position holder election
+Self-nominees for 2021/2022:
+* John Machin
+* Nicholas Car
+* Armin Haller
+* Nataliya Katsman
+
+Bernadette Hyland-Wood promises to help but not nominate formally, not being a government employee.  
+
+Larent Lefort indicates that he would like to assist more with WG activities as his ABS role evolves to engaged with external organisations more.
+
+There being no further nominees for position holders, the group elects the 4 self nominees to the Co-Chair position.
+
 
 ### 3. AGM closes
 
