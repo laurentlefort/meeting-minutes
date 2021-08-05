@@ -89,6 +89,7 @@ Nick indicates he will present on Linked Data catalogues at the September meetin
         * Dept Finance does, directly
         * other agencies do via data.gov.au reading from agency's own catalogues
         * Caleb Stone reported on data.govt.nz - it's value proposition is that the central catalogue makes other lists (catalogues) of data discoverable
+    * discussion about the ONDC's register of datasets of National Significance
 
 ### 6. Next meeting details
 
