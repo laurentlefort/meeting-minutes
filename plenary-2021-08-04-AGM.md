@@ -66,10 +66,17 @@ There being no further nominees for position holders, and no dissent, the group 
 ### 1. Previous minutes
 See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2021-07-01.md>
 
+### x. Discussion about AGLDWG website
+John Machin indicates we (the WG) would like to update the WG's website. Please make suggestions via the mailing list.
+
 ### 2. Welcoming and introduction to new members
+
+Heather Ford - UTS - interested in KG ethics as a research direction.  
+
 
 ### 3. Follow-up on previous meeting's Action Items
 
+Nick indicates he will present on Linked Data catalogues at the September meeting.
 
 
 ### 5. General business 
