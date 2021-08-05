@@ -25,6 +25,9 @@
 
 ## Minutes
 
+**Chair**: John Machin  
+**Notes**: Nicholas Car  
+
 ### 1. Attendees and Apologies
 
 Alexander Hanysz  
@@ -34,6 +37,11 @@ Len Smith
 
 ### 4. Agency and Project Presentations
 
+* Laurent Lefort - ABS
+* Nataliya Katsman - Tas State Growth
+* Andrew Fitzgerald - Finance
+* Armin Haller - ANU
+* Richard Walker - ARDC (PID system project report)
 
 ### 2. AGM
 
