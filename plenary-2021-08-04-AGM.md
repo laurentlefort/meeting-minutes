@@ -81,6 +81,10 @@ Nick indicates he will present on Linked Data catalogues at the September meetin
 
 ### 5. General business 
 
+Lots of discussion about the proposed updates to the WG's ToR & MoU. Co-chairs indicate that the proposals will be circulated before the September WG meeting.
+
+Bernadette indicates that Qld GovHack is on soon and she will desibe this on the mainling list.
+
 ### 6. Next meeting details
 
 ### 7. Monthly Plenary closes
