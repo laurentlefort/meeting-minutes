@@ -29,6 +29,10 @@
 
 Alexander Hanysz  
 Jonathan Yu  
+Irina Bastrakova  
+Len Smith  
+
+### 4. Agency and Project Presentations
 
 
 ### 2. AGM
@@ -42,7 +46,7 @@ See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2021-07-01.md
 
 ### 3. Follow-up on previous meeting's Action Items
 
-### 4. Agency and Project Presentations
+
 
 ### 5. General business 
 
